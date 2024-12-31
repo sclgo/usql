@@ -14,7 +14,6 @@ require (
 	github.com/amsokol/ignite-go-client v0.12.2
 	github.com/apache/arrow/go/v17 v17.0.0
 	github.com/apache/calcite-avatica-go/v5 v5.3.0
-	github.com/bippio/go-impala v2.1.0+incompatible
 	github.com/btnguyen2k/gocosmos v1.1.0
 	github.com/btnguyen2k/godynamo v1.3.0
 	github.com/chaisql/chai v0.16.1-0.20240218103834-23e406360fd2
@@ -49,6 +48,7 @@ require (
 	github.com/ory/dockertest/v3 v3.11.0
 	github.com/prestodb/presto-go-client v0.0.0-20240426182841-905ac40a1783
 	github.com/proullon/ramsql v0.1.4
+	github.com/sclgo/impala-go v0.1.0
 	github.com/sijms/go-ora/v2 v2.8.22
 	github.com/snowflakedb/gosnowflake v1.12.0
 	github.com/spf13/cobra v1.8.1
